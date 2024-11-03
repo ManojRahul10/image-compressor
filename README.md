@@ -1,1 +1,2 @@
-You can find the source code of this project in my other repository
+https://manojrahul10.github.io/image-compressor/
+
