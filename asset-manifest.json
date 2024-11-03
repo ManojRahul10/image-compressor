@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/image-compressor/static/css/main.0105b92a.css",
+    "main.js": "/image-compressor/static/js/main.69d884b0.js",
+    "static/js/453.c17053bd.chunk.js": "/image-compressor/static/js/453.c17053bd.chunk.js",
+    "static/media/Upload.png": "/image-compressor/static/media/Upload.fb5a12f0c72d59025a80.png",
+    "index.html": "/image-compressor/index.html",
+    "main.0105b92a.css.map": "/image-compressor/static/css/main.0105b92a.css.map",
+    "main.69d884b0.js.map": "/image-compressor/static/js/main.69d884b0.js.map",
+    "453.c17053bd.chunk.js.map": "/image-compressor/static/js/453.c17053bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0105b92a.css",
+    "static/js/main.69d884b0.js"
+  ]
+}
